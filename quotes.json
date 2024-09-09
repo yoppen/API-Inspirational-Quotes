@@ -1,0 +1,532 @@
+[
+    {
+        "id": "q1",
+        "author": "Karen Lamb",
+        "quote": "A year from now, you may wish you had started today."
+    },
+    {
+        "id": "q2",
+        "author": "Seth Godin",
+        "quote": "If it scares you, it might be a good thing to try."
+    },
+    {
+        "id": "q3",
+        "author": "Theodore Roosevelt",
+        "quote": "Believe you can and you're halfway there."
+    },
+    {
+        "id": "q4",
+        "author": "George Addair",
+        "quote": "Everything you've ever wanted is on the other side of fear."
+    },
+    {
+        "id": "q5",
+        "author": "Wayne Gretzky",
+        "quote": "You miss 100% of the shots you don't take."
+    },
+    {
+        "id": "q6",
+        "author": "Kurt Cobain",
+        "quote": "Wanting to be someone else is a waste of the person you are."
+    },
+    {
+        "id": "q7",
+        "author": "Michael Nolan",
+        "quote": "There are many things in life that will catch your eye, but only a few will catch your heart."
+    },
+    {
+        "id": "q8",
+        "author": "Wanda Sykes",
+        "quote": "If you feel like there's something out there that you're supposed to be doing, if you have a passion for it, then stop wishing and just do it."
+    },
+    {
+        "id": "q9",
+        "author": "Ella Fitzgerald",
+        "quote": "Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong."
+    },
+    {
+        "id": "q10",
+        "author": "Les Brown",
+        "quote": "You are never too old to set another goal or to dream a new dream."
+    },
+    {
+        "id": "q11",
+        "author": "Alan Cohen",
+        "quote": "Do not wait until the conditions are perfect to begin. Beginning makes the conditions perfect."
+    },
+    {
+        "id": "q12",
+        "author": "Chris Grosser",
+        "quote": "Opportunities don't happen, you create them."
+    },
+    {
+        "id": "q13",
+        "author": "Ivan Turgenev",
+        "quote": "If we wait for the moment when everything, absolutely everything, is ready, we shall never begin."
+    },
+    {
+        "id": "q14",
+        "author": "Walt Disney",
+        "quote": "The way to get started is to quit talking and begin doing."
+    },
+    {
+        "id": "q15",
+        "author": "Sam Levenson",
+        "quote": "Don't watch the clock; do what it does. Keep going."
+    },
+    {
+        "id": "q16",
+        "author": "Confucius",
+        "quote": "It does not matter how slowly you go as long as you do not stop."
+    },
+    {
+        "id": "q17",
+        "author": "Thomas Edison",
+        "quote": "There is no substitute for hard work."
+    },
+    {
+        "id": "q18",
+        "author": "Abraham Lincoln",
+        "quote": "In the end, it's not the years in your life that count. It's the life in your years."
+    },
+    {
+        "id": "q19",
+        "author": "Maya Angelou",
+        "quote": "You will face many defeats in life, but never let yourself be defeated."
+    },
+    {
+        "id": "q20",
+        "author": "John Wooden",
+        "quote": "Do not let making a living prevent you from making a life."
+    },
+    {
+        "id": "q21",
+        "author": "Bob Marley",
+        "quote": "Love the life you live. Live the life you love."
+    },
+    {
+        "id": "q22",
+        "author": "Leo Buscaglia",
+        "quote": "Change is the end result of all true learning."
+    },
+    {
+        "id": "q23",
+        "author": "Anonymous",
+        "quote": "The expert in anything was once a beginner."
+    },
+    {
+        "id": "q24",
+        "author": "B.B. King",
+        "quote": "The beautiful thing about learning is nobody can take it away from you."
+    },
+    {
+        "id": "q25",
+        "author": "Maya Angelou",
+        "quote": "Do the best you can until you know better. Then when you know better, do better."
+    },
+    {
+        "id": "q26",
+        "author": "Carrie Fisher",
+        "quote": "Stay afraid, but do it anyway. What’s important is the action. You don’t have to wait to be confident. Just do it and eventually the confidence will follow."
+    },
+    {
+        "id": "q27",
+        "author": "Elliot Page",
+        "quote": "When we’re growing up there are all sorts of people telling us what to do when really what we need is space to work out who to be."
+    },
+    {
+        "id": "q28",
+        "author": "Frederick Douglass",
+        "quote": "If there is no struggle, there is no progress."
+    },
+    {
+        "id": "q29",
+        "author": "Nido Qubein",
+        "quote": "Change brings opportunity."
+    },
+    {
+        "id": "q30",
+        "author": "Marilyn Monroe",
+        "quote": "Sometimes good things fall apart so better things could fall together."
+    },
+    {
+        "id": "q31",
+        "author": "Deborah Day",
+        "quote": "Recognizing that you are not where you want to be is a starting point to begin changing your life."
+    },
+    {
+        "id": "q32",
+        "author": "Rob Siltanen",
+        "quote": "People who are crazy enough to think they can change the world are the ones who do."
+    },
+    {
+        "id": "q33",
+        "author": "Angela Davis",
+        "quote": "I am no longer accepting the things I cannot change. I am changing the things I cannot accept."
+    },
+    {
+        "id": "q34",
+        "author": "Jane Goodall",
+        "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make."
+    },
+    {
+        "id": "q35",
+        "author": "Amanda Gorman",
+        "quote": "Change is made of choices, and choices are made of character."
+    },
+    {
+        "id": "q36",
+        "author": "Sundar Pichai",
+        "quote": "Failure is not the opposite of success; it is a stepping stone towards it."
+    },
+    {
+        "id": "q37",
+        "author": "Vera Wang",
+        "quote": "Success isn't about the end result, it's about what you learn along the way."
+    },
+    {
+        "id": "q38",
+        "author": "Shonda Rhimes",
+        "quote": "You can waste your lives drawing lines. Or you can live your life crossing them."
+    },
+    {
+        "id": "q39",
+        "author": "Diane von Furstenberg",
+        "quote": "You are the one that possesses the keys to your being. You carry the passport to your own happiness."
+    },
+    {
+        "id": "q40",
+        "author": "Harriet Beecher Stowe",
+        "quote": "When you get into a tight place and everything goes against you… never give up then, for that is just the place and time that the tide will turn."
+    },
+    {
+        "id": "q41",
+        "author": "Les Brown",
+        "quote": "Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."
+    },
+    {
+        "id": "q42",
+        "author": "Kevin Ngo",
+        "quote": "If you don’t make the time to work on creating the life you want, you’re eventually going to be forced to spend a lot of time dealing with a life you don’t want."
+    },
+    {
+        "id": "q43",
+        "author": "George Eliot",
+        "quote": "It is never too late to be who you might have been."
+    },
+    {
+        "id": "q44",
+        "author": "Cesar Chavez",
+        "quote": "You cannot uneducate the person who has learned to read."
+    },
+    {
+        "id": "q45",
+        "author": "Mortimer Adler",
+        "quote": "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live."
+    },
+    {
+        "id": "q46",
+        "author": "Ralph Waldo Emerson",
+        "quote": "The mind, once stretched by a new idea, never returns to its original dimensions."
+    },
+    {
+        "id": "q47",
+        "author": "John Dewey",
+        "quote": "Education is not preparation for life; education is life itself."
+    },
+    {
+        "id": "q48",
+        "author": "Herbert Spencer",
+        "quote": "The great aim of education is not knowledge but action."
+    },
+    {
+        "id": "q49",
+        "author": "Claude Bernard",
+        "quote": "It is what we know already that often prevents us from learning."
+    },
+    {
+        "id": "q50",
+        "author": "Confucius",
+        "quote": "He who learns but does not think, is lost! He who thinks but does not learn is in great danger."
+    },
+    {
+        "id": "q51",
+        "author": "Clay P. Bedford",
+        "quote": "You can teach a student a lesson for a day; but if you can teach him to learn by creating curiosity, he will continue the learning process as long as he lives."
+    },
+    {
+        "id": "q52",
+        "author": "Mortimer Adler",
+        "quote": "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live."
+    },
+    {
+        "id": "q53",
+        "author": "John Updike",
+        "quote": "You cannot help but learn more as you take the world into your hands. Take it up reverently, for it is an old piece of clay, with millions of thumbprints on it."
+    },
+    {
+        "id": "q54",
+        "author": "William Arthur Ward",
+        "quote": "Curiosity is the wick in the candle of learning."
+    },
+    {
+        "id": "q55",
+        "author": "Dr. Seuss",
+        "quote": "The more that you read, the more things you will know. The more that you learn, the more places you’ll go."
+    },
+    {
+        "id": "q56",
+        "author": "Abigail Adams",
+        "quote": "Learning is not attained by chance. It must be sought for with ardour and attended with diligence."
+    },
+    {
+        "id": "q57",
+        "author": "Jim Kwik",
+        "quote": "If knowledge is power, then learning is a superpower."
+    },
+    {
+        "id": "q58",
+        "author": "Anton Chekhov",
+        "quote": "Wisdom… comes not from age, but from education and learning."
+    },
+    {
+        "id": "q59",
+        "author": "William Butler Yeats",
+        "quote": "Education is not the filling of a pail, but the lighting of a fire."
+    },
+    {
+        "id": "q60",
+        "author": "Michel Legrand",
+        "quote": "The more I live, the more I learn. The more I learn, the more I realize, the less I know."
+    },
+    {
+        "id": "q61",
+        "author": "Abraham Lincoln",
+        "quote": "All I have learned, I learned from books."
+    },
+    {
+        "id": "q62",
+        "author": "Albert Einstein",
+        "quote": "If we knew what it was we were doing, it would not be called research, would it?"
+    },
+    {
+        "id": "q63",
+        "author": "Marie von Ebner-Eschenbach",
+        "quote": "In youth we learn; in age we understand."
+    },
+    {
+        "id": "q64",
+        "author": "Marie von Ebner-Eschenbach",
+        "quote": "We are so vain that we even care for the opinion of those we don't care for."
+    },
+    {
+        "id": "q65",
+        "author": "Ernest Hemingway",
+        "quote": "I like to listen. I have learned a great deal from listening carefully. Most people never listen."
+    },
+    {
+        "id": "q66",
+        "author": "Ernest Hemingway",
+        "quote": "The shortest answer is doing the thing."
+    },
+    {
+        "id": "q67",
+        "author": "J. R. R. Tolkien",
+        "quote": "All we have to decide is what to do with the time that is given us."
+    },
+    {
+        "id": "q68",
+        "author": "J. R. R. Tolkien",
+        "quote": "Courage is found in unlikely places."
+    },
+    {
+        "id": "q69",
+        "author": "J. R. R. Tolkien",
+        "quote": "It's the job that's never started as takes longest to finish."
+    },
+    {
+        "id": "q70",
+        "author": "Walter Anderson",
+        "quote": "It is only when we take chances that our lives improve. The initial and the most difficult risk we need to take is to become honest."
+    },
+    {
+        "id": "q71",
+        "author": "Diane McLaren",
+        "quote": "Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together."
+    },
+    {
+        "id": "q72",
+        "author": "Winston Churchill",
+        "quote": "Success is not final; failure is not fatal: It is the courage to continue that counts."
+    },
+    {
+        "id": "q73",
+        "author": "John Wooden",
+        "quote": "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable."
+    },
+    {
+        "id": "q74",
+        "author": "Jim Rohn",
+        "quote": "Either you run the day or the day runs you."
+    },
+    {
+        "id": "q75",
+        "author": "Tony Robbins",
+        "quote": "Setting goals is the first step in turning the invisible into the visible."
+    },
+    {
+        "id": "q76",
+        "author": "Arlan Hamilton",
+        "quote": "We don’t just sit around and wait for other people. We just make, and we do."
+    },
+    {
+        "id": "q77",
+        "author": "Oprah Winfrey",
+        "quote": "Think like a queen. A queen is not afraid to fail. Failure is another stepping stone to greatness."
+    },
+    {
+        "id": "q78",
+        "author": "Melissa McCarthy",
+        "quote": "When I believe in something, I’m like a dog with a bone."
+    },
+    {
+        "id": "q79",
+        "author": "David Hurley",
+        "quote": "The standard you walk past is the standard you accept."
+    },
+    {
+        "id": "q80",
+        "author": "Winston Churchill",
+        "quote": "Success is stumbling from failure to failure with no loss of enthusiasm."
+    },
+    {
+        "id": "q81",
+        "author": "Eleanor Roosevelt",
+        "quote": "Do not stop thinking of life as an adventure. You have no security unless you can live bravely, excitingly, imaginatively; unless you can choose a challenge instead of competence."
+    },
+    {
+        "id": "q82",
+        "author": "Walt Disney",
+        "quote": "Get a good idea and stay with it. Dog it, and work at it until it’s done right."
+    },
+    {
+        "id": "q83",
+        "author": "Joe Girard",
+        "quote": "The elevator to success is out of order. You’ll have to use the stairs, one step at a time."
+    },
+    {
+        "id": "q84",
+        "author": "Dave Carolan",
+        "quote": "Be a positive energy trampoline—absorb what you need and rebound more back."
+    },
+    {
+        "id": "q85",
+        "author": "Zig Ziglar",
+        "quote": "People often say that motivation doesn’t last. Well, neither does bathing—that’s why we recommend it daily."
+    },
+    {
+        "id": "q86",
+        "author": "Lily Tomlin",
+        "quote": "I always wanted to be somebody, but now I realize I should have been more specific."
+    },
+    {
+        "id": "q87",
+        "author": "Helen Keller",
+        "quote": "Alone we can do so little, together we can do so much."
+    },
+    {
+        "id": "q88",
+        "author": "Dalai Lama",
+        "quote": "Just one small positive thought in the morning can change your whole day."
+    },
+    {
+        "id": "q89",
+        "author": "Chris Grosser",
+        "quote": "Opportunities don’t happen, you create them."
+    },
+    {
+        "id": "q90",
+        "author": "Gary Vaynerchuk",
+        "quote": "Love your family, work super hard, live your passion."
+    },
+    {
+        "id": "q91",
+        "author": "George Eliot",
+        "quote": "It is never too late to be what you might have been."
+    },
+    {
+        "id": "q92",
+        "author": "Nina Simone",
+        "quote": "You’ve got to learn to leave the table when love’s no longer being served."
+    },
+    {
+        "id": "q93",
+        "author": "Eleanor Roosevelt",
+        "quote": "The future belongs to those who believe in the beauty of their dreams."
+    },
+    {
+        "id": "q94",
+        "author": "Mahatma Gandhi",
+        "quote": "The best way to find yourself is to lose yourself in the service of others."
+    },
+    {
+        "id": "q95",
+        "author": "Steve Jobs",
+        "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
+    },
+    {
+        "id": "q96",
+        "author": "Franklin D. Roosevelt",
+        "quote": "The only thing we have to fear is fear itself."
+    },
+    {
+        "id": "q97",
+        "author": "Oscar Wilde",
+        "quote": "Be yourself; everyone else is already taken."
+    },
+    {
+        "id": "q98",
+        "author": "J.K. Rowling",
+        "quote": "It is our choices that show what we truly are, far more than our abilities."
+    },
+    {
+        "id": "q99",
+        "author": "Helen Keller",
+        "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+    },
+    {
+        "id": "q100",
+        "author": "Martin Luther King Jr.",
+        "quote": "The time is always right to do what is right."
+    },
+     {
+        "id": "q101",
+        "author": "John Wooden",
+        "quote": "Success is never final, failure is never fatal. It's courage that counts."
+    },
+    {
+        "id": "q102",
+        "author": "Dr.Seuss",
+        "quote": "You're off to Great Places! Today is your day! Your mountain is waiting, So... get on your way!"
+    },
+    {
+        "id": "q103",
+        "author": "Dr.Seuss",
+        "quote": "You’ll miss the best things if you keep your eyes shut."
+    },
+    {
+        "id": "q104",
+        "author": "Dr.Seuss",
+        "quote": "If you never did you should. These things are fun and fun is good."
+    },
+    {
+        "id": "q105",
+        "author": "J. K. Rowling",
+        "quote": "It matters not what someone is born, but what they grow to be."
+    },
+    {
+        "id": "q106",
+        "author": "J. K. Rowling",
+        "quote": "If you don’t like to read, you haven’t found the right book."
+    }
+]
