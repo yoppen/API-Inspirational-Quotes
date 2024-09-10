@@ -1,532 +1,744 @@
 [
     {
         "id": "q1",
-        "author": "Karen Lamb",
-        "quote": "A year from now, you may wish you had started today."
+        "author first name": "Karen",
+        "author last name": "Lamb",
+        "quote": "A year from now, you may wish you had started today.",
+        "topic": "Inspiration"
     },
     {
         "id": "q2",
-        "author": "Seth Godin",
-        "quote": "If it scares you, it might be a good thing to try."
+        "author first name": "Seth",
+        "author last name": "Godin",
+        "quote": "If it scares you, it might be a good thing to try.",
+        "topic": "Inspiration"
     },
     {
         "id": "q3",
-        "author": "Theodore Roosevelt",
-        "quote": "Believe you can and you're halfway there."
+        "author first name": "Theodore",
+        "author last name": "Roosevelt",
+        "quote": "Believe you can and you're halfway there.",
+        "topic": "Motivation"
     },
     {
         "id": "q4",
-        "author": "George Addair",
-        "quote": "Everything you've ever wanted is on the other side of fear."
+        "author first name": "George",
+        "author last name": "Addair",
+        "quote": "Everything you've ever wanted is on the other side of fear.",
+        "topic": "Inspiration"
     },
     {
         "id": "q5",
-        "author": "Wayne Gretzky",
-        "quote": "You miss 100% of the shots you don't take."
+        "author first name": "Wayne",
+        "author last name": "Gretzky",
+        "quote": "You miss 100% of the shots you don't take.",
+        "topic": "Motivation"
     },
     {
         "id": "q6",
-        "author": "Kurt Cobain",
-        "quote": "Wanting to be someone else is a waste of the person you are."
+        "author first name": "Kurt",
+        "author last name": "Cobain",
+        "quote": "Wanting to be someone else is a waste of the person you are.",
+        "topic": "Self-Acceptance"
     },
     {
         "id": "q7",
-        "author": "Michael Nolan",
-        "quote": "There are many things in life that will catch your eye, but only a few will catch your heart."
+        "author first name": "Michael",
+        "author last name": "Nolan",
+        "quote": "There are many things in life that will catch your eye, but only a few will catch your heart.",
+        "topic": "Inspiration"
     },
     {
         "id": "q8",
-        "author": "Wanda Sykes",
-        "quote": "If you feel like there's something out there that you're supposed to be doing, if you have a passion for it, then stop wishing and just do it."
+        "author first name": "Wanda",
+        "author last name": "Sykes",
+        "quote": "If you feel like there's something out there that you're supposed to be doing, if you have a passion for it, then stop wishing and just do it.",
+        "topic": "Inspiration"
     },
     {
         "id": "q9",
-        "author": "Ella Fitzgerald",
-        "quote": "Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong."
+        "author first name": "Ella",
+        "author last name": "Fitzgerald",
+        "quote": "Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong.",
+        "topic": "Inspiration"
     },
     {
         "id": "q10",
-        "author": "Les Brown",
-        "quote": "You are never too old to set another goal or to dream a new dream."
+        "author first name": "Les",
+        "author last name": "Brown",
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "topic": "Motivation"
     },
     {
         "id": "q11",
-        "author": "Alan Cohen",
-        "quote": "Do not wait until the conditions are perfect to begin. Beginning makes the conditions perfect."
+        "author first name": "Alan",
+        "author last name": "Cohen",
+        "quote": "Do not wait until the conditions are perfect to begin. Beginning makes the conditions perfect.",
+        "topic": "Motivation"
     },
     {
         "id": "q12",
-        "author": "Chris Grosser",
-        "quote": "Opportunities don't happen, you create them."
+        "author first name": "Chris",
+        "author last name": "Grosser",
+        "quote": "Opportunities don't happen, you create them.",
+        "topic": "Motivation"
     },
     {
         "id": "q13",
-        "author": "Ivan Turgenev",
-        "quote": "If we wait for the moment when everything, absolutely everything, is ready, we shall never begin."
+        "author first name": "Ivan",
+        "author last name": "Turgenev",
+        "quote": "If we wait for the moment when everything, absolutely everything, is ready, we shall never begin.",
+        "topic": "Motivation"
     },
     {
         "id": "q14",
-        "author": "Walt Disney",
-        "quote": "The way to get started is to quit talking and begin doing."
+        "author first name": "Walt",
+        "author last name": "Disney",
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "topic": "Motivation"
     },
     {
         "id": "q15",
-        "author": "Sam Levenson",
-        "quote": "Don't watch the clock; do what it does. Keep going."
+        "author first name": "Sam",
+        "author last name": "Levenson",
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "topic": "Motivation"
     },
     {
         "id": "q16",
-        "author": "Confucius",
-        "quote": "It does not matter how slowly you go as long as you do not stop."
+        "author first name": "Confucius",
+        "author last name": "",
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "topic": "Perseverance"
     },
     {
         "id": "q17",
-        "author": "Thomas Edison",
-        "quote": "There is no substitute for hard work."
+        "author first name": "Thomas",
+        "author last name": "Edison",
+        "quote": "There is no substitute for hard work.",
+        "topic": "Work Ethic"
     },
     {
         "id": "q18",
-        "author": "Abraham Lincoln",
-        "quote": "In the end, it's not the years in your life that count. It's the life in your years."
+        "author first name": "Abraham",
+        "author last name": "Lincoln",
+        "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+        "topic": "Life"
     },
     {
         "id": "q19",
-        "author": "Maya Angelou",
-        "quote": "You will face many defeats in life, but never let yourself be defeated."
+        "author first name": "Maya",
+        "author last name": "Angelou",
+        "quote": "You will face many defeats in life, but never let yourself be defeated.",
+        "topic": "Resilience"
     },
     {
         "id": "q20",
-        "author": "John Wooden",
-        "quote": "Do not let making a living prevent you from making a life."
+        "author first name": "John",
+        "author last name": "Wooden",
+        "quote": "Do not let making a living prevent you from making a life.",
+        "topic": "Life"
     },
     {
         "id": "q21",
-        "author": "Bob Marley",
-        "quote": "Love the life you live. Live the life you love."
+        "author first name": "Bob",
+        "author last name": "Marley",
+        "quote": "Love the life you live. Live the life you love.",
+        "topic": "Life"
     },
     {
         "id": "q22",
-        "author": "Leo Buscaglia",
-        "quote": "Change is the end result of all true learning."
+        "author first name": "Leo",
+        "author last name": "Buscaglia",
+        "quote": "Change is the end result of all true learning.",
+        "topic": "Learning"
     },
     {
         "id": "q23",
-        "author": "Anonymous",
-        "quote": "The expert in anything was once a beginner."
+        "author first name": "Helen",
+        "author last name": "Hayes",
+        "quote": "The expert in anything was once a beginner.",
+        "topic": "Learning"
     },
     {
         "id": "q24",
-        "author": "B.B. King",
-        "quote": "The beautiful thing about learning is nobody can take it away from you."
+        "author first name": "B.B.",
+        "author last name": "King",
+        "quote": "The beautiful thing about learning is nobody can take it away from you.",
+        "topic": "Learning"
     },
     {
         "id": "q25",
-        "author": "Maya Angelou",
-        "quote": "Do the best you can until you know better. Then when you know better, do better."
+        "author first name": "Maya",
+        "author last name": "Angelou",
+        "quote": "Do the best you can until you know better. Then when you know better, do better.",
+        "topic": "Self-Improvement"
     },
     {
         "id": "q26",
-        "author": "Carrie Fisher",
-        "quote": "Stay afraid, but do it anyway. What’s important is the action. You don’t have to wait to be confident. Just do it and eventually the confidence will follow."
+        "author first name": "Carrie",
+        "author last name": "Fisher",
+        "quote": "Stay afraid, but do it anyway. What’s important is the action. You don’t have to wait to be confident. Just do it and eventually the confidence will follow.",
+        "topic": "Courage"
     },
     {
         "id": "q27",
-        "author": "Elliot Page",
-        "quote": "When we’re growing up there are all sorts of people telling us what to do when really what we need is space to work out who to be."
+        "author first name": "Elliot",
+        "author last name": "Page",
+        "quote": "When we’re growing up there are all sorts of people telling us what to do when really what we need is space to work out who to be.",
+        "topic": "Self-Discovery"
     },
     {
         "id": "q28",
-        "author": "Frederick Douglass",
-        "quote": "If there is no struggle, there is no progress."
+        "author first name": "Frederick",
+        "author last name": "Douglass",
+        "quote": "If there is no struggle, there is no progress.",
+        "topic": "Perseverance"
     },
     {
         "id": "q29",
-        "author": "Nido Qubein",
-        "quote": "Change brings opportunity."
+        "author first name": "Nido",
+        "author last name": "Qubein",
+        "quote": "Change brings opportunity.",
+        "topic": "Opportunity"
     },
     {
         "id": "q30",
-        "author": "Marilyn Monroe",
-        "quote": "Sometimes good things fall apart so better things could fall together."
+        "author first name": "Marilyn",
+        "author last name": "Monroe",
+        "quote": "Sometimes good things fall apart so better things could fall together.",
+        "topic": "Change"
     },
     {
         "id": "q31",
-        "author": "Deborah Day",
-        "quote": "Recognizing that you are not where you want to be is a starting point to begin changing your life."
+        "author first name": "Deborah",
+        "author last name": "Day",
+        "quote": "Recognizing that you are not where you want to be is a starting point to begin changing your life.",
+        "topic": "Self-Improvement"
     },
     {
         "id": "q32",
-        "author": "Rob Siltanen",
-        "quote": "People who are crazy enough to think they can change the world are the ones who do."
+        "author first name": "Rob",
+        "author last name": "Siltanen",
+        "quote": "People who are crazy enough to think they can change the world are the ones who do.",
+        "topic": "Inspiration"
     },
     {
         "id": "q33",
-        "author": "Angela Davis",
-        "quote": "I am no longer accepting the things I cannot change. I am changing the things I cannot accept."
+        "author first name": "Angela",
+        "author last name": "Davis",
+        "quote": "I am no longer accepting the things I cannot change. I am changing the things I cannot accept.",
+        "topic": "Change"
     },
     {
         "id": "q34",
-        "author": "Jane Goodall",
-        "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make."
+        "author first name": "Albert",
+        "author last name": "Einstein",
+        "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "topic": "Perseverance"
     },
     {
         "id": "q35",
-        "author": "Amanda Gorman",
-        "quote": "Change is made of choices, and choices are made of character."
+        "author first name": "John",
+        "author last name": "Maxwell",
+        "quote": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+        "topic": "Leadership"
     },
     {
         "id": "q36",
-        "author": "Sundar Pichai",
-        "quote": "Failure is not the opposite of success; it is a stepping stone towards it."
+        "author first name": "Eleanor",
+        "author last name": "Roosevelt",
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "topic": "Dreams"
     },
     {
         "id": "q37",
-        "author": "Vera Wang",
-        "quote": "Success isn't about the end result, it's about what you learn along the way."
+        "author first name": "Steve",
+        "author last name": "Jobs",
+        "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+        "topic": "Work"
     },
     {
         "id": "q38",
-        "author": "Shonda Rhimes",
-        "quote": "You can waste your lives drawing lines. Or you can live your life crossing them."
+        "author first name": "Oprah",
+        "author last name": "Winfrey",
+        "quote": "The biggest adventure you can take is to live the life of your dreams.",
+        "topic": "Life"
     },
     {
         "id": "q39",
-        "author": "Diane von Furstenberg",
-        "quote": "You are the one that possesses the keys to your being. You carry the passport to your own happiness."
+        "author first name": "J.K.",
+        "author last name": "Rowling",
+        "quote": "It is our choices that show what we truly are, far more than our abilities.",
+        "topic": "Choices"
     },
     {
         "id": "q40",
-        "author": "Harriet Beecher Stowe",
-        "quote": "When you get into a tight place and everything goes against you… never give up then, for that is just the place and time that the tide will turn."
+        "author first name": "Ralph",
+        "author last name": "Waldo Emerson",
+        "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "topic": "Self-Empowerment"
     },
     {
         "id": "q41",
-        "author": "Les Brown",
-        "quote": "Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."
+        "author first name": "Mahatma",
+        "author last name": "Gandhi",
+        "quote": "Be the change that you wish to see in the world.",
+        "topic": "Change"
     },
     {
         "id": "q42",
-        "author": "Kevin Ngo",
-        "quote": "If you don’t make the time to work on creating the life you want, you’re eventually going to be forced to spend a lot of time dealing with a life you don’t want."
+        "author first name": "Jim",
+        "author last name": "Rohn",
+        "quote": "Either you run the day, or the day runs you.",
+        "topic": "Productivity"
     },
     {
         "id": "q43",
-        "author": "George Eliot",
-        "quote": "It is never too late to be who you might have been."
+        "author first name": "Tony",
+        "author last name": "Robbins",
+        "quote": "Setting goals is the first step in turning the invisible into the visible.",
+        "topic": "Goals"
     },
     {
         "id": "q44",
-        "author": "Cesar Chavez",
-        "quote": "You cannot uneducate the person who has learned to read."
+        "author first name": "Winston",
+        "author last name": "Churchill",
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "topic": "Courage"
     },
     {
         "id": "q45",
-        "author": "Mortimer Adler",
-        "quote": "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live."
+        "author first name": "Eleanor",
+        "author last name": "Roosevelt",
+        "quote": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.",
+        "topic": "Courage"
     },
     {
         "id": "q46",
-        "author": "Ralph Waldo Emerson",
-        "quote": "The mind, once stretched by a new idea, never returns to its original dimensions."
+        "author first name": "Marianne",
+        "author last name": "Williamson",
+        "quote": "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.",
+        "topic": "Self-Empowerment"
     },
     {
         "id": "q47",
-        "author": "John Dewey",
-        "quote": "Education is not preparation for life; education is life itself."
+        "author first name": "Dale",
+        "author last name": "Carnegie",
+        "quote": "You can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you.",
+        "topic": "Relationships"
     },
     {
         "id": "q48",
-        "author": "Herbert Spencer",
-        "quote": "The great aim of education is not knowledge but action."
+        "author first name": "Lao",
+        "author last name": "Tzu",
+        "quote": "A journey of a thousand miles begins with a single step.",
+        "topic": "Journey"
     },
     {
         "id": "q49",
-        "author": "Claude Bernard",
-        "quote": "It is what we know already that often prevents us from learning."
+        "author first name": "Nina",
+        "author last name": "Simone",
+        "quote": "You've got to learn to leave the table when love's no longer being served.",
+        "topic": "Self-Respect"
     },
     {
         "id": "q50",
-        "author": "Confucius",
-        "quote": "He who learns but does not think, is lost! He who thinks but does not learn is in great danger."
+        "author first name": "Charles",
+        "author last name": "Dickens",
+        "quote": "No one is useless in this world who lightens the burdens of another.",
+        "topic": "Kindness"
     },
     {
         "id": "q51",
-        "author": "Clay P. Bedford",
-        "quote": "You can teach a student a lesson for a day; but if you can teach him to learn by creating curiosity, he will continue the learning process as long as he lives."
+        "author first name": "Henry",
+        "author last name": "Ford",
+        "quote": "Whether you think you can or you think you can't, you're right.",
+        "topic": "Belief"
     },
     {
         "id": "q52",
-        "author": "Mortimer Adler",
-        "quote": "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live."
+        "author first name": "John",
+        "author last name": "C. Maxwell",
+        "quote": "People may hear your words, but they feel your attitude.",
+        "topic": "Attitude"
     },
     {
         "id": "q53",
-        "author": "John Updike",
-        "quote": "You cannot help but learn more as you take the world into your hands. Take it up reverently, for it is an old piece of clay, with millions of thumbprints on it."
+        "author first name": "Zig",
+        "author last name": "Ziglar",
+        "quote": "You don't have to be great to start, but you have to start to be great.",
+        "topic": "Start"
     },
     {
         "id": "q54",
-        "author": "William Arthur Ward",
-        "quote": "Curiosity is the wick in the candle of learning."
+        "author first name": "Albert",
+        "author last name": "Schweitzer",
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "topic": "Happiness"
     },
     {
         "id": "q55",
-        "author": "Dr. Seuss",
-        "quote": "The more that you read, the more things you will know. The more that you learn, the more places you’ll go."
+        "author first name": "Jim",
+        "author last name": "Rohn",
+        "quote": "The major value in life is not what you get. The major value in life is what you become.",
+        "topic": "Growth"
     },
     {
         "id": "q56",
-        "author": "Abigail Adams",
-        "quote": "Learning is not attained by chance. It must be sought for with ardour and attended with diligence."
+        "author first name": "Eckhart",
+        "author last name": "Tolle",
+        "quote": "The primary cause of unhappiness is never the situation but your thoughts about it.",
+        "topic": "Mindset"
     },
     {
         "id": "q57",
-        "author": "Jim Kwik",
-        "quote": "If knowledge is power, then learning is a superpower."
+        "author first name": "Steve",
+        "author last name": "Jobs",
+        "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+        "topic": "Work"
     },
     {
         "id": "q58",
-        "author": "Anton Chekhov",
-        "quote": "Wisdom… comes not from age, but from education and learning."
+        "author first name": "Ralph",
+        "author last name": "Waldo Emerson",
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "topic": "Authenticity"
     },
     {
         "id": "q59",
-        "author": "William Butler Yeats",
-        "quote": "Education is not the filling of a pail, but the lighting of a fire."
+        "author first name": "Mark",
+        "author last name": "Twain",
+        "quote": "The secret of getting ahead is getting started.",
+        "topic": "Start"
     },
     {
         "id": "q60",
-        "author": "Michel Legrand",
-        "quote": "The more I live, the more I learn. The more I learn, the more I realize, the less I know."
+        "author first name": "Hannah",
+        "author last name": "Arendt",
+        "quote": "The most radical revolutionary will become a conservative the day after the revolution.",
+        "topic": "Change"
     },
     {
         "id": "q61",
-        "author": "Abraham Lincoln",
-        "quote": "All I have learned, I learned from books."
+        "author first name": "Anne",
+        "author last name": "Frank",
+        "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+        "topic": "Change"
     },
     {
         "id": "q62",
-        "author": "Albert Einstein",
-        "quote": "If we knew what it was we were doing, it would not be called research, would it?"
+        "author first name": "Mahatma",
+        "author last name": "Gandhi",
+        "quote": "You must be the change you wish to see in the world.",
+        "topic": "Change"
     },
     {
         "id": "q63",
-        "author": "Marie von Ebner-Eschenbach",
-        "quote": "In youth we learn; in age we understand."
+        "author first name": "Abraham",
+        "author last name": "Lincoln",
+        "quote": "The best way to predict your future is to create it.",
+        "topic": "Future"
     },
     {
         "id": "q64",
-        "author": "Marie von Ebner-Eschenbach",
-        "quote": "We are so vain that we even care for the opinion of those we don't care for."
+        "author first name": "Benjamin",
+        "author last name": "Franklin",
+        "quote": "An investment in knowledge pays the best interest.",
+        "topic": "Learning"
     },
     {
         "id": "q65",
-        "author": "Ernest Hemingway",
-        "quote": "I like to listen. I have learned a great deal from listening carefully. Most people never listen."
+        "author first name": "George",
+        "author last name": "Bernard Shaw",
+        "quote": "Life isn’t about finding yourself. Life is about creating yourself.",
+        "topic": "Self-Creation"
     },
-    {
+     {
         "id": "q66",
-        "author": "Ernest Hemingway",
-        "quote": "The shortest answer is doing the thing."
+        "author first name": "Stephen",
+        "author last name": "Covey",
+        "quote": "The key is not to prioritize what’s on your schedule, but to schedule your priorities.",
+        "topic": "Productivity"
     },
     {
         "id": "q67",
-        "author": "J. R. R. Tolkien",
-        "quote": "All we have to decide is what to do with the time that is given us."
+        "author first name": "Ralph",
+        "author last name": "Waldo Emerson",
+        "quote": "The only person you are destined to become is the person you decide to be.",
+        "topic": "Self-Creation"
     },
     {
         "id": "q68",
-        "author": "J. R. R. Tolkien",
-        "quote": "Courage is found in unlikely places."
+        "author first name": "Jules",
+        "author last name": "Renard",
+        "quote": "We work in the dark—we do what we can—we give what we have. Our doubts are traitors and make us lose the good we oft might win by fearing to attempt.",
+        "topic": "Doubt"
     },
     {
         "id": "q69",
-        "author": "J. R. R. Tolkien",
-        "quote": "It's the job that's never started as takes longest to finish."
+        "author first name": "Vince",
+        "author last name": "Lombardi",
+        "quote": "The measure of who we are is what we do with what we have.",
+        "topic": "Action"
     },
     {
         "id": "q70",
-        "author": "Walter Anderson",
-        "quote": "It is only when we take chances that our lives improve. The initial and the most difficult risk we need to take is to become honest."
+        "author first name": "Charles",
+        "author last name": "Swindoll",
+        "quote": "Life is 10% what happens to us and 90% how we react to it.",
+        "topic": "Perspective"
     },
     {
         "id": "q71",
-        "author": "Diane McLaren",
-        "quote": "Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together."
+        "author first name": "John",
+        "author last name": "F. Kennedy",
+        "quote": "Ask not what your country can do for you—ask what you can do for your country.",
+        "topic": "Service"
     },
     {
         "id": "q72",
-        "author": "Winston Churchill",
-        "quote": "Success is not final; failure is not fatal: It is the courage to continue that counts."
+        "author first name": "Albert",
+        "author last name": "Einstein",
+        "quote": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.",
+        "topic": "Creativity"
     },
     {
         "id": "q73",
-        "author": "John Wooden",
-        "quote": "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable."
+        "author first name": "Dalai",
+        "author last name": "Lama",
+        "quote": "Happiness is not something ready made. It comes from your own actions.",
+        "topic": "Happiness"
     },
     {
         "id": "q74",
-        "author": "Jim Rohn",
-        "quote": "Either you run the day or the day runs you."
+        "author first name": "Martin",
+        "author last name": "Luther King Jr.",
+        "quote": "I have a dream that one day this nation will rise up and live out the true meaning of its creed.",
+        "topic": "Dreams"
     },
     {
         "id": "q75",
-        "author": "Tony Robbins",
-        "quote": "Setting goals is the first step in turning the invisible into the visible."
+        "author first name": "Victor",
+        "author last name": "Hugo",
+        "quote": "Even the darkest night will end and the sun will rise.",
+        "topic": "Hope"
     },
     {
         "id": "q76",
-        "author": "Arlan Hamilton",
-        "quote": "We don’t just sit around and wait for other people. We just make, and we do."
+        "author first name": "William",
+        "author last name": "Shakespeare",
+        "quote": "All the world's a stage, and all the men and women merely players.",
+        "topic": "Life"
     },
     {
         "id": "q77",
-        "author": "Oprah Winfrey",
-        "quote": "Think like a queen. A queen is not afraid to fail. Failure is another stepping stone to greatness."
+        "author first name": "Socrates",
+        "author last name": "",
+        "quote": "The unexamined life is not worth living.",
+        "topic": "Self-Reflection"
     },
     {
         "id": "q78",
-        "author": "Melissa McCarthy",
-        "quote": "When I believe in something, I’m like a dog with a bone."
+        "author first name": "Gandhi",
+        "author last name": "",
+        "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+        "topic": "Learning"
     },
     {
         "id": "q79",
-        "author": "David Hurley",
-        "quote": "The standard you walk past is the standard you accept."
+        "author first name": "Helen",
+        "author last name": "Keller",
+        "quote": "The only thing worse than being blind is having sight but no vision.",
+        "topic": "Vision"
     },
     {
         "id": "q80",
-        "author": "Winston Churchill",
-        "quote": "Success is stumbling from failure to failure with no loss of enthusiasm."
+        "author first name": "William",
+        "author last name": "Arthur Ward",
+        "quote": "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.",
+        "topic": "Adaptability"
     },
     {
         "id": "q81",
-        "author": "Eleanor Roosevelt",
-        "quote": "Do not stop thinking of life as an adventure. You have no security unless you can live bravely, excitingly, imaginatively; unless you can choose a challenge instead of competence."
+        "author first name": "John",
+        "author last name": "F. Kennedy",
+        "quote": "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
+        "topic": "Change"
     },
     {
         "id": "q82",
-        "author": "Walt Disney",
-        "quote": "Get a good idea and stay with it. Dog it, and work at it until it’s done right."
+        "author first name": "Oscar",
+        "author last name": "Wilde",
+        "quote": "Be yourself; everyone else is already taken.",
+        "topic": "Authenticity"
     },
     {
         "id": "q83",
-        "author": "Joe Girard",
-        "quote": "The elevator to success is out of order. You’ll have to use the stairs, one step at a time."
+        "author first name": "Yoda",
+        "author last name": "",
+        "quote": "Do, or do not. There is no try.",
+        "topic": "Action"
     },
     {
         "id": "q84",
-        "author": "Dave Carolan",
-        "quote": "Be a positive energy trampoline—absorb what you need and rebound more back."
+        "author first name": "Margaret",
+        "author last name": "Mead",
+        "quote": "Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has.",
+        "topic": "Change"
     },
     {
         "id": "q85",
-        "author": "Zig Ziglar",
-        "quote": "People often say that motivation doesn’t last. Well, neither does bathing—that’s why we recommend it daily."
+        "author first name": "Lao",
+        "author last name": "Tzu",
+        "quote": "A journey of a thousand miles begins with a single step.",
+        "topic": "Journey"
     },
     {
         "id": "q86",
-        "author": "Lily Tomlin",
-        "quote": "I always wanted to be somebody, but now I realize I should have been more specific."
+        "author first name": "Eleanor",
+        "author last name": "Roosevelt",
+        "quote": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.",
+        "topic": "Courage"
     },
     {
         "id": "q87",
-        "author": "Helen Keller",
-        "quote": "Alone we can do so little, together we can do so much."
+        "author first name": "Helen",
+        "author last name": "Hayes",
+        "quote": "There is no such thing as a great talent without great willpower.",
+        "topic": "Talent"
     },
     {
         "id": "q88",
-        "author": "Dalai Lama",
-        "quote": "Just one small positive thought in the morning can change your whole day."
+        "author first name": "Paulo",
+        "author last name": "Coelho",
+        "quote": "When you want something, all the universe conspires in helping you to achieve it.",
+        "topic": "Manifestation"
     },
     {
         "id": "q89",
-        "author": "Chris Grosser",
-        "quote": "Opportunities don’t happen, you create them."
+        "author first name": "Jim",
+        "author last name": "Rohn",
+        "quote": "You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself.",
+        "topic": "Responsibility"
     },
     {
         "id": "q90",
-        "author": "Gary Vaynerchuk",
-        "quote": "Love your family, work super hard, live your passion."
+        "author first name": "T.S.",
+        "author last name": "Eliot",
+        "quote": "Only those who will risk going too far can possibly find out how far one can go.",
+        "topic": "Risk"
     },
     {
         "id": "q91",
-        "author": "George Eliot",
-        "quote": "It is never too late to be what you might have been."
+        "author first name": "Martin",
+        "author last name": "Luther King Jr.",
+        "quote": "Faith is taking the first step even when you don’t see the whole staircase.",
+        "topic": "Faith"
     },
     {
         "id": "q92",
-        "author": "Nina Simone",
-        "quote": "You’ve got to learn to leave the table when love’s no longer being served."
+        "author first name": "Harriet",
+        "author last name": "Tubman",
+        "quote": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+        "topic": "Dreams"
     },
     {
         "id": "q93",
-        "author": "Eleanor Roosevelt",
-        "quote": "The future belongs to those who believe in the beauty of their dreams."
+        "author first name": "Albert",
+        "author last name": "Einstein",
+        "quote": "You have to learn the rules of the game. And then you have to play better than anyone else.",
+        "topic": "Success"
     },
     {
         "id": "q94",
-        "author": "Mahatma Gandhi",
-        "quote": "The best way to find yourself is to lose yourself in the service of others."
+        "author first name": "Helen",
+        "author last name": "Keller",
+        "quote": "Alone we can do so little; together we can do so much.",
+        "topic": "Teamwork"
     },
     {
         "id": "q95",
-        "author": "Steve Jobs",
-        "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
+        "author first name": "Bruce",
+        "author last name": "Lee",
+        "quote": "Absorb what is useful, discard what is not, add what is uniquely your own.",
+        "topic": "Self-Improvement"
     },
     {
         "id": "q96",
-        "author": "Franklin D. Roosevelt",
-        "quote": "The only thing we have to fear is fear itself."
+        "author first name": "Leonardo",
+        "author last name": "da Vinci",
+        "quote": "Simplicity is the ultimate sophistication.",
+        "topic": "Simplicity"
     },
     {
         "id": "q97",
-        "author": "Oscar Wilde",
-        "quote": "Be yourself; everyone else is already taken."
+        "author first name": "James",
+        "author last name": "Allen",
+        "quote": "You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you.",
+        "topic": "Thoughts"
     },
     {
         "id": "q98",
-        "author": "J.K. Rowling",
-        "quote": "It is our choices that show what we truly are, far more than our abilities."
+        "author first name": "Eleanor",
+        "author last name": "Roosevelt",
+        "quote": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.",
+        "topic": "Courage"
     },
     {
         "id": "q99",
-        "author": "Helen Keller",
-        "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+        "author first name": "Confucius",
+        "author last name": "",
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "topic": "Perseverance"
     },
     {
         "id": "q100",
-        "author": "Martin Luther King Jr.",
-        "quote": "The time is always right to do what is right."
+        "author first name": "Walt",
+        "author last name": "Disney",
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "topic": "Action"
     },
-     {
+    {
         "id": "q101",
-        "author": "John Wooden",
-        "quote": "Success is never final, failure is never fatal. It's courage that counts."
+        "author first name": "John",
+        "author last name": "Maxwell",
+        "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+        "topic": "Leadership"
     },
     {
         "id": "q102",
-        "author": "Dr.Seuss",
-        "quote": "You're off to Great Places! Today is your day! Your mountain is waiting, So... get on your way!"
+        "author first name": "Martin",
+        "author last name": "Luther King Jr.",
+        "quote": "Injustice anywhere is a threat to justice everywhere.",
+        "topic": "Justice"
     },
     {
         "id": "q103",
-        "author": "Dr.Seuss",
-        "quote": "You’ll miss the best things if you keep your eyes shut."
+        "author first name": "George",
+        "author last name": "Bernard Shaw",
+        "quote": "Life isn’t about finding yourself. Life is about creating yourself.",
+        "topic": "Self-Creation"
     },
     {
         "id": "q104",
-        "author": "Dr.Seuss",
-        "quote": "If you never did you should. These things are fun and fun is good."
+        "author first name": "William",
+        "author last name": "James",
+        "quote": "The greatest weapon against stress is our ability to choose one thought over another.",
+        "topic": "Stress"
     },
     {
         "id": "q105",
-        "author": "J. K. Rowling",
-        "quote": "It matters not what someone is born, but what they grow to be."
+        "author first name": "Buddha",
+        "author last name": "Gautama",
+        "quote": "The mind is everything. What you think you become.",
+        "topic": "Mindset"
     },
     {
         "id": "q106",
-        "author": "J. K. Rowling",
-        "quote": "If you don’t like to read, you haven’t found the right book."
+        "author first name": "Helen",
+        "author last name": "Hayes",
+        "quote": "There is no such thing as a great talent without great willpower.",
+        "topic": "Talent"
     }
 ]
